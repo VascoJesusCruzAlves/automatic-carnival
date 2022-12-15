@@ -1,0 +1,5 @@
+DAM
+SIN
+BADA
+ENDE
+LSMG
